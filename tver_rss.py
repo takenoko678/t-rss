@@ -3,7 +3,6 @@ import os
 import xml.sax.saxutils as saxutils
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
-
 def generate_rss(html_content, series_url):
     soup = BeautifulSoup(html_content, 'html.parser')
     
@@ -20,6 +19,7 @@ def generate_rss(html_content, series_url):
             
         href = item['href']
         item_url = "https://tver.jp" + href
+        escaped_url = item_url.replace('&', '&amp;')
         
         if item_url in seen_urls:
             continue
@@ -66,7 +66,6 @@ def generate_rss(html_content, series_url):
   </channel>
 </rss>"""
     return rss_xml
-
 def process_urls():
     if not os.path.exists('urls.txt'):
         print("urls.txt not found. Please create one with TVer series URLs.")
@@ -113,6 +112,5 @@ def process_urls():
                 print(f"  Error processing {url}: {e}")
                 
         browser.close()
-
 if __name__ == '__main__':
     process_urls()
