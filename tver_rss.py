@@ -25,31 +25,30 @@ def generate_rss(html_content, series_url):
             continue
         seen_urls.add(item_url)
         
-        # Extract title and image
+        # Extract image and title
         img_elem = item.select_one('img')
         img_url = img_elem['src'] if img_elem and 'src' in img_elem.attrs else ""
         item_title = img_elem['alt'] if img_elem and 'alt' in img_elem.attrs else "No Title"
-        
-        # Fallback for title if alt is empty
+        # Fallback title if alt missing
         if not item_title or item_title == "No Title":
             title_elem = item.select_one('[class*="title"]')
             item_title = title_elem.text if title_elem else "No Title"
-        
+
         # Sub info (broadcast date, end date)
         subinfos = item.select('[class*="subInfo__"]')
         info_texts = [info.text for info in subinfos]
-        
         item_desc = "<br>".join(info_texts)
         if img_url:
             item_desc = f'<img src="{img_url}"><br>' + item_desc
-            
+
         # Escape for XML
         item_title_esc = saxutils.escape(item_title)
-        
+
+        # Build RSS <item> using escaped URL and title
         item_xml = f"""    <item>
       <title>{item_title_esc}</title>
-      <link>{item_url}</link>
-      <guid>{item_url}</guid>
+      <link>{escaped_url}</link>
+      <guid>{escaped_url}</guid>
       <description><![CDATA[{item_desc}]]></description>
     </item>"""
         items_xml.append(item_xml)
@@ -91,13 +90,11 @@ def process_urls():
                 series_id = url.split('/')[-1]
                 
                 page.goto(url)
-                
-                # Wait for the episode list to load (either episodes or main container)
-                try:
-                    page.wait_for_selector('a[href^="/episodes/"], a[href^="/live/"], [class*="SeasonEpisodeList"]', timeout=10000)
-                except Exception as e:
-                    print(f"  Warning: Timeout waiting for episodes on {url}. It might have no episodes or the layout changed.")
-                    
+                # Wait for page to load completely and scroll to load lazy content
+                page.wait_for_load_state('networkidle')
+                page.evaluate('window.scrollTo(0, document.body.scrollHeight)')
+                # Give a brief pause for any lazy‑loaded items
+                page.wait_for_timeout(2000)
                 html_content = page.content()
                 
                 rss_xml = generate_rss(html_content, url)
