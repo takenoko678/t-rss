@@ -17,22 +17,16 @@
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epc1anbd4j.jpg?v=22a437cd"><br>読売テレビ 5月17日(日)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
-      <title>情熱大陸</title>
-      <link>https://tver.jp/episodes/epgme3vm0b</link>
-      <guid>https://tver.jp/episodes/epgme3vm0b</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epgme3vm0b.jpg?v=10146771"><br>MBS毎日放送 5月17日(日)放送分<br>5月24日(日)22:59 終了予定]]></description>
-    </item>
-    <item>
-      <title>和田明日香とゆる宅飲み</title>
-      <link>https://tver.jp/episodes/epz6e59wcm</link>
-      <guid>https://tver.jp/episodes/epz6e59wcm</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epz6e59wcm.jpg?v=f7ab3422"><br>ＢＳテレ東 5月19日(火)放送分<br>配信終了まで1週間以上]]></description>
-    </item>
-    <item>
       <title>カンブリア宮殿</title>
       <link>https://tver.jp/episodes/epi4v3dq0v</link>
       <guid>https://tver.jp/episodes/epi4v3dq0v</guid>
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epi4v3dq0v.jpg?v=51165a23"><br>テレ東 5月14日(木)放送分<br>5月28日(木)23:05 終了予定]]></description>
+    </item>
+    <item>
+      <title>情熱大陸</title>
+      <link>https://tver.jp/episodes/epgme3vm0b</link>
+      <guid>https://tver.jp/episodes/epgme3vm0b</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epgme3vm0b.jpg?v=10146771"><br>MBS毎日放送 5月17日(日)放送分<br>5月24日(日)22:59 終了予定]]></description>
     </item>
     <item>
       <title>ザ・ノンフィクション</title>
@@ -41,10 +35,16 @@
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep78bifaem.jpg?v=67ebe4ba"><br>フジテレビ 5月17日(日)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
-      <title>ＷＢＳ（ワールドビジネスサテライト）</title>
-      <link>https://tver.jp/episodes/epqe8jzqmg</link>
-      <guid>https://tver.jp/episodes/epqe8jzqmg</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epqe8jzqmg.jpg?v=e18dbf65"><br>テレ東 5月20日(水)放送分<br>5月28日(木)15:59 終了予定]]></description>
+      <title>和田明日香とゆる宅飲み</title>
+      <link>https://tver.jp/episodes/epz6e59wcm</link>
+      <guid>https://tver.jp/episodes/epz6e59wcm</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epz6e59wcm.jpg?v=f7ab3422"><br>ＢＳテレ東 5月19日(火)放送分<br>配信終了まで1週間以上]]></description>
+    </item>
+    <item>
+      <title>あの本、読みました？</title>
+      <link>https://tver.jp/episodes/epkb935ns0</link>
+      <guid>https://tver.jp/episodes/epkb935ns0</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epkb935ns0.jpg?v=786b5421"><br>ＢＳテレ東 5月21日(木)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
       <title>Google Pixel presents ANOTHER SKY</title>
@@ -53,16 +53,22 @@
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epqm6qtfsn.jpg?v=c1af296c"><br>日テレ 5月16日(土)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
+      <title>ＷＢＳ（ワールドビジネスサテライト）</title>
+      <link>https://tver.jp/episodes/ep0oxwh533</link>
+      <guid>https://tver.jp/episodes/ep0oxwh533</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep0oxwh533.jpg?v=abcd4cc9"><br>テレ東 5月21日(木)放送分<br>5月29日(金)15:59 終了予定]]></description>
+    </item>
+    <item>
+      <title>ZIP!</title>
+      <link>https://tver.jp/episodes/epplmiwo80</link>
+      <guid>https://tver.jp/episodes/epplmiwo80</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epplmiwo80.jpg?v=e7d4622f"><br>日テレ 5月22日(金)放送分<br>配信終了まで1週間以上]]></description>
+    </item>
+    <item>
       <title>いまからサイエンス</title>
       <link>https://tver.jp/episodes/epilok4euc</link>
       <guid>https://tver.jp/episodes/epilok4euc</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epilok4euc.jpg?v=c7809a00"><br>ＢＳテレ東 5月20日(水)放送分<br>配信終了まで1週間以上]]></description>
-    </item>
-    <item>
-      <title>あの本、読みました？</title>
-      <link>https://tver.jp/episodes/epkb935ns0</link>
-      <guid>https://tver.jp/episodes/epkb935ns0</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epkb935ns0.jpg?v=786b5421"><br>ＢＳテレ東 5月21日(木)放送分<br>配信終了まで1週間以上]]></description>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epilok4euc.jpg?v=c9809d26"><br>ＢＳテレ東 5月20日(水)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
       <title>となりのスゴイ家</title>
@@ -72,15 +78,9 @@
     </item>
     <item>
       <title>ガイアの夜明け</title>
-      <link>https://tver.jp/episodes/epj390qxin</link>
-      <guid>https://tver.jp/episodes/epj390qxin</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epj390qxin.jpg?v=9485e71c"><br>テレ東 5月8日(金)放送分<br>5月22日(金)21:59 終了予定]]></description>
-    </item>
-    <item>
-      <title>池上彰の報道特番</title>
-      <link>https://tver.jp/episodes/epjnl0lr2r</link>
-      <guid>https://tver.jp/episodes/epjnl0lr2r</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epjnl0lr2r.jpg?v=851b7c6e"><br>テレ東 5月17日(日)放送分<br>配信終了まで1週間以上]]></description>
+      <link>https://tver.jp/episodes/ep2kw9orvs</link>
+      <guid>https://tver.jp/episodes/ep2kw9orvs</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep2kw9orvs.jpg?v=37b47689"><br>テレ東 5月15日(金)放送分<br>5月29日(金)21:59 終了予定]]></description>
     </item>
     <item>
       <title>人生最高レストラン</title>
@@ -89,34 +89,22 @@
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epxqixk31l.jpg?v=28330b3e"><br>TBS 5月16日(土)放送分<br>5月23日(土)23:29 終了予定]]></description>
     </item>
     <item>
-      <title>アンパラレルド～ニッポン発、世界へ～</title>
-      <link>https://tver.jp/episodes/eph5mi6nek</link>
-      <guid>https://tver.jp/episodes/eph5mi6nek</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/eph5mi6nek.jpg?v=74a24f25"><br>テレ東 5月20日(水)放送分<br>5月27日(水)23:54 終了予定]]></description>
-    </item>
-    <item>
-      <title>世の中お金で見てみよう～火曜ヨルの学べる経済～</title>
-      <link>https://tver.jp/episodes/ept72db9xc</link>
-      <guid>https://tver.jp/episodes/ept72db9xc</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ept72db9xc.jpg?v=f3e8e797"><br>テレ東 5月19日(火)放送分<br>5月27日(水)20:59 終了予定]]></description>
-    </item>
-    <item>
-      <title>日経モープラFT</title>
-      <link>https://tver.jp/episodes/ep5siwmwlj</link>
-      <guid>https://tver.jp/episodes/ep5siwmwlj</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep5siwmwlj.jpg?v=1a463b7e"><br>ＢＳテレ東 5月21日(木)放送分<br>5月28日(木)7:04 終了予定]]></description>
-    </item>
-    <item>
       <title>住人十色～家の数だけある 家族のカタチ～</title>
       <link>https://tver.jp/episodes/epthwccknu</link>
       <guid>https://tver.jp/episodes/epthwccknu</guid>
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epthwccknu.jpg?v=f878e222"><br>MBS毎日放送 5月16日(土)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
-      <title>【羽鳥パネル】羽鳥慎一モーニングショー</title>
-      <link>https://tver.jp/episodes/epfy5c3cs5</link>
-      <guid>https://tver.jp/episodes/epfy5c3cs5</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epfy5c3cs5.jpg?v=852db1ce"><br>テレビ朝日 5月18日(月)放送分<br>配信終了まで1週間以上]]></description>
+      <title>池上彰の報道特番</title>
+      <link>https://tver.jp/episodes/epjnl0lr2r</link>
+      <guid>https://tver.jp/episodes/epjnl0lr2r</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epjnl0lr2r.jpg?v=851b7c6e"><br>テレ東 5月17日(日)放送分<br>配信終了まで1週間以上]]></description>
+    </item>
+    <item>
+      <title>ララLIFE</title>
+      <link>https://tver.jp/episodes/epa2rx4u5j</link>
+      <guid>https://tver.jp/episodes/epa2rx4u5j</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epa2rx4u5j.jpg?v=73dbe892"><br>TBS 5月22日(金)放送分<br>5月29日(金)23:29 終了予定]]></description>
     </item>
     <item>
       <title>マネーのまなび</title>
@@ -131,10 +119,46 @@
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epp5nkpu7b.jpg?v=ebb72ab5"><br>BS-TBS 5月18日(月)放送分<br>5月26日(火)12:00 終了予定]]></description>
     </item>
     <item>
+      <title>【羽鳥パネル】羽鳥慎一モーニングショー</title>
+      <link>https://tver.jp/episodes/epyi8k0s1q</link>
+      <guid>https://tver.jp/episodes/epyi8k0s1q</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epyi8k0s1q.jpg?v=70a0464a"><br>テレビ朝日 5月19日(火)放送分<br>配信終了まで1週間以上]]></description>
+    </item>
+    <item>
+      <title>アンパラレルド～ニッポン発、世界へ～</title>
+      <link>https://tver.jp/episodes/eph5mi6nek</link>
+      <guid>https://tver.jp/episodes/eph5mi6nek</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/eph5mi6nek.jpg?v=74a24f25"><br>テレ東 5月20日(水)放送分<br>5月27日(水)23:54 終了予定]]></description>
+    </item>
+    <item>
+      <title>日経モープラFT</title>
+      <link>https://tver.jp/episodes/epyhviwmxs</link>
+      <guid>https://tver.jp/episodes/epyhviwmxs</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epyhviwmxs.jpg?v=ec7009a9"><br>ＢＳテレ東 5月22日(金)放送分<br>5月29日(金)7:04 終了予定]]></description>
+    </item>
+    <item>
+      <title>NIKKEI NEWS NEXT</title>
+      <link>https://tver.jp/episodes/epahrfs26w</link>
+      <guid>https://tver.jp/episodes/epahrfs26w</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epahrfs26w.jpg?v=2c274b97"><br>ＢＳテレ東 5月21日(木)放送分<br>5月28日(木)20:59 終了予定]]></description>
+    </item>
+    <item>
+      <title>世の中お金で見てみよう～火曜ヨルの学べる経済～</title>
+      <link>https://tver.jp/episodes/ept72db9xc</link>
+      <guid>https://tver.jp/episodes/ept72db9xc</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ept72db9xc.jpg?v=f3e8e797"><br>テレ東 5月19日(火)放送分<br>5月27日(水)20:59 終了予定]]></description>
+    </item>
+    <item>
       <title>河合郁人＆A.B.C-Z塚田×福井アナ「なんでやねん！？」（news おかえり）</title>
       <link>https://tver.jp/episodes/epmpuogiem</link>
       <guid>https://tver.jp/episodes/epmpuogiem</guid>
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epmpuogiem.jpg?v=70fc4c8c"><br>ABCテレビ 5月19日(火)放送分<br>5月27日(水)13:00 終了予定]]></description>
+    </item>
+    <item>
+      <title>きっちりおじさんのてんやわんやクッキング</title>
+      <link>https://tver.jp/episodes/ep41wjxor4</link>
+      <guid>https://tver.jp/episodes/ep41wjxor4</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep41wjxor4.jpg?v=80a5613a"><br>BS朝日 5月22日(金)放送分<br>5月29日(金)22:30 終了予定]]></description>
     </item>
     <item>
       <title>DayDay.</title>
@@ -149,46 +173,22 @@
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep62nllwaf.jpg?v=e15c0e82"><br>フジテレビ 5月6日(水)放送分<br>配信終了まで1週間以上]]></description>
     </item>
     <item>
-      <title>ララLIFE</title>
-      <link>https://tver.jp/episodes/eprd64tx9o</link>
-      <guid>https://tver.jp/episodes/eprd64tx9o</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/eprd64tx9o.jpg?v=c8a9aca7"><br>TBS 5月15日(金)放送分<br>5月22日(金)23:29 終了予定]]></description>
-    </item>
-    <item>
-      <title>NIKKEI NEWS NEXT</title>
-      <link>https://tver.jp/episodes/epf3ol3c65</link>
-      <guid>https://tver.jp/episodes/epf3ol3c65</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epf3ol3c65.jpg?v=33f1c5af"><br>ＢＳテレ東 5月20日(水)放送分<br>5月27日(水)20:59 終了予定]]></description>
-    </item>
-    <item>
-      <title>きっちりおじさんのてんやわんやクッキング</title>
-      <link>https://tver.jp/episodes/ep5eqsny0n</link>
-      <guid>https://tver.jp/episodes/ep5eqsny0n</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep5eqsny0n.jpg?v=bda6ed55"><br>BS朝日 5月15日(金)放送分<br>5月22日(金)22:30 終了予定]]></description>
-    </item>
-    <item>
-      <title>シューイチ</title>
-      <link>https://tver.jp/episodes/ep0sd3np5q</link>
-      <guid>https://tver.jp/episodes/ep0sd3np5q</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/ep0sd3np5q.jpg?v=e4e535e7"><br>日テレ 5月16日(土)放送分<br>5月23日(土)5:54 終了予定]]></description>
-    </item>
-    <item>
-      <title>所さんの目がテン！</title>
-      <link>https://tver.jp/episodes/epfrnht6ew</link>
-      <guid>https://tver.jp/episodes/epfrnht6ew</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epfrnht6ew.jpg?v=0b32408f"><br>日テレ 1月11日(日)放送分<br>配信終了まで1週間以上]]></description>
-    </item>
-    <item>
       <title>世界遺産</title>
       <link>https://tver.jp/episodes/epqdlydety</link>
       <guid>https://tver.jp/episodes/epqdlydety</guid>
       <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epqdlydety.jpg?v=f2da1921"><br>TBS 5月17日(日)放送分<br>5月24日(日)17:59 終了予定]]></description>
     </item>
     <item>
-      <title>ZIP!</title>
-      <link>https://tver.jp/episodes/epwt6o3y6y</link>
-      <guid>https://tver.jp/episodes/epwt6o3y6y</guid>
-      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epwt6o3y6y.jpg?v=c98d9332"><br>日テレ 5月21日(木)放送分<br>配信終了まで1週間以上]]></description>
+      <title>行き先はレシートまかせ！AmBitious「絶品いただきシャス！」（news おかえり）</title>
+      <link>https://tver.jp/episodes/epkidzftes</link>
+      <guid>https://tver.jp/episodes/epkidzftes</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epkidzftes.jpg?v=e1f433d7"><br>ABCテレビ 5月22日(金)放送分<br>配信終了まで1週間以上]]></description>
+    </item>
+    <item>
+      <title>所さんの目がテン！</title>
+      <link>https://tver.jp/episodes/epfrnht6ew</link>
+      <guid>https://tver.jp/episodes/epfrnht6ew</guid>
+      <description><![CDATA[<img src="https://image-cdn.tver.jp/w=200/images/content/thumbnail/episode/xlarge/epfrnht6ew.jpg?v=0b32408f"><br>日テレ 1月11日(日)放送分<br>配信終了まで1週間以上]]></description>
     </item>
   </channel>
 </rss>
